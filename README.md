@@ -70,8 +70,8 @@ Features:
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your link)
-- Email: (add professional email)
+- LinkedIn: https://www.linkedin.com/in/abdellah-lasda/
+- Email: abdollahlasdos@gmail.com
 
 ---
 
